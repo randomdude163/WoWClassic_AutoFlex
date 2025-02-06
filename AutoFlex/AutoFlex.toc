@@ -1,4 +1,4 @@
-## Interface: 11505
+## Interface: 11506
 ## Title: AutoFlex
 ## Notes: Automatically flexes on anyone in the enemy faction who dies near you.
 ## Author: Severussnipe and Hkfarmer <Redridge Police>
